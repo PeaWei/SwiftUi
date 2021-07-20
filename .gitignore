@@ -1,0 +1,7 @@
+secret.yml
+
+Config/database.yml
+
+/db/*.splite3
+
+*.tmp
